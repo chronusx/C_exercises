@@ -19,7 +19,7 @@ int numr1,numr2,numr3;
         printf("MENOR = %d\n", numr1);
 
     }
-        else if(numr2 < numr1 && numr2 < numr3){
+        else if(numr2 < numr3){
 
         printf("MENOR = %d\n",numr2); 
 
